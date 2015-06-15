@@ -63,11 +63,5 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
-
-# Deployment
-## Docs: http://hexo.io/docs/deployment.html
-deploy:
-  type:github
-  repository:git@github.com:code-moritz/MoritzBlog.github.io.git
+theme: landsca@github.com:code-moritz/MoritzBlog.github.io.git
   branch:hexo
